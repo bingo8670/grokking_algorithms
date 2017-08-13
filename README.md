@@ -1,5 +1,7 @@
 # Grokking Algorithms
 
+里面包含编程语言：csharp, gambas, Golang, Haskell, java, Javascript, php, PowerShell, Python, Ruby
+
 This is the code in my book [Grokking Algorithms](https://www.manning.com/bhargava).
 
 Also check out [Python Tutor](http://pythontutor.com/), a great website that helps you step through Python code line by line.
